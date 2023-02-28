@@ -31,12 +31,10 @@ function listaCSS() {
           removItens()
         } else if (action === 'Sair') {
             console.log('Sair')
-            sair()
-           
+            sair() 
         }
       })
   }
-
 
   function back(){
     inquirer
@@ -63,13 +61,11 @@ function listaCSS() {
       })
   }
 
-
   function exibLista(){
     console.log("lista CSS:", array.sort())
     back()
 
   }
-
 
   function iserItem() {
     inquirer
@@ -94,7 +90,6 @@ function listaCSS() {
         }
       })
   }
-
 
   function removItens(){
     inquirer
@@ -126,7 +121,6 @@ function listaCSS() {
       })
    }
 
-  
   function sair(){
     console.log("lista CSS:", array.sort())
     console.log(chalk.yellow('Tchau Tchau. Volte sempre :)'))

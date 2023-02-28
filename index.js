@@ -85,7 +85,7 @@ function listaCSS() {
           return back()
         }
         else{
-          console.log(chalk.bgRed.black('Esta propriedade já esta na lista. Tente outra :)'))
+          console.log(chalk.red.black('Esta propriedade já esta na lista. Tente outra :)'))
           iserItem()
         }
       })
@@ -123,7 +123,7 @@ function listaCSS() {
 
   function sair(){
     console.log("lista CSS:", array.sort())
-    console.log(chalk.yellow('Tchau Tchau. Volte sempre :)'))
+    console.log(chalk.blue('Tchau Tchau. Volte sempre :)'))
     process.exit()
 
   }

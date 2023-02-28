@@ -1,6 +1,6 @@
 Dependencias
 
-npm init -y
-npm install inquirer
-npm install chalk
-npm start
+npm init -y </br>
+npm install inquirer </br>
+npm install chalk </br>
+npm start </br>

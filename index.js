@@ -1,7 +1,7 @@
 import inquirer from 'inquirer'
 import chalk from 'chalk'
 
-let array = ["align-items", "background-color", "border-radius"] 
+let array = ["overflow", "width", "scale", "object-fit"] 
 
 listaCSS()
 

@@ -1,8 +1,9 @@
-#<h1>PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia</h1> 
+<h1>PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia</h1> 
 
 </br></hr></br>
 
-#<h4>Explicando o codigo </h4>
+<h4>Explicando o codigo </h4>
+</br></hr></br>
   
   Este código é um programa de interface de linha de comando (CLI) simples que permite ao usuário manipular uma lista de propriedades CSS. O programa usa o pacote "inquirer" para solicitar ao usuário uma lista de opções e receber entrada a partir da linha de comando.
 
@@ -12,7 +13,8 @@ O programa também inclui três funções auxiliares: "back()", "exibLista()" e 
 
 Em geral, este código é um bom exemplo de um programa CLI simples que usa o pacote "inquirer" para solicitar ao usuário entrada e manipular dados.
 
-#Dependencias
+Dependencias
+</br></hr></br>
 
 npm init -y </br>
 npm install inquirer </br>

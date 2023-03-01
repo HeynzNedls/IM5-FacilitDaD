@@ -11,9 +11,9 @@ O programa também inclui três funções auxiliares: "back()", "exibLista()" e 
 
 Em geral, este código é um bom exemplo de um programa CLI simples que usa o pacote "inquirer" para solicitar ao usuário entrada e manipular dados.
 
-#Dependencias
+# Dependencias
 
-* npm init -y </br>
-* npm install inquirer </br>
-* npm install chalk </br>
-* npm start </br>
+ npm init -y </br>
+ npm install inquirer </br>
+ npm install chalk </br>
+ npm start </br>
